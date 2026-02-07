@@ -1,0 +1,11 @@
+﻿# Frontend Team owns everything
+*                                @tharper1977-poc-er/frontend-team
+
+# Cross-team ownership for authentication
+/src/features/authentication/**  @tharper1977-poc-er/frontend-team @tharper1977-poc-er/be-user-team
+
+# Cross-team ownership for user profile
+/src/features/user-profile/**    @tharper1977-poc-er/frontend-team @tharper1977-poc-er/be-user-team
+
+# Cross-team ownership for reservations
+/src/features/reservations/**    @tharper1977-poc-er/frontend-team @tharper1977-poc-er/be-reservation-team
